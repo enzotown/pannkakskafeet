@@ -1,0 +1,27 @@
+{
+  "name": "Pannkakskaféet — Räkna och servera",
+  "short_name": "Pannkaka",
+  "description": "Pannkakskaféet: Räkna och servera. Spel för barn 4–7 år.",
+  "lang": "sv",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fdf3e7",
+  "theme_color": "#fffaf3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
